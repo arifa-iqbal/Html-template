@@ -17,6 +17,14 @@ nav {
     align-items: center;
 }
 
+.nav-icon h2 {
+    color: white;
+}
+
+.nav-icon h2 span {
+    color: orangered;
+}
+
 .container ul {
     display: flex;
     align-items: center;
