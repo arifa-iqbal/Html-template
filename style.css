@@ -1,0 +1,31 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+nav {
+    background-color: #0e8196;
+    box-shadow: rgba(0, 0, 0, 0.2) 0px 60px 40px -7px;
+}
+
+.container {
+    width: 80%;
+    margin: 0 auto;
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.container ul {
+    display: flex;
+    align-items: center;
+}
+
+.container ul li {
+    list-style: none;
+    font-size: 20px;
+    color: white;
+    margin-left: 10px;
+    margin-right: 20px;
+}
